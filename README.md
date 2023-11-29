@@ -1,4 +1,4 @@
 # CalScan-Major-project
 Major project
 <br>
-Author- Vanshita Mediratta
+Author- Vanshita Mediratta(hi there)
